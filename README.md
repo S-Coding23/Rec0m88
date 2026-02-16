@@ -12,7 +12,7 @@
 
 **Rediscover the classics with seamless online multiplayer, save states, and a beautiful game library manager.**
 
-[🎮 Download Now](https://rec0m88.com/download-rec0m88) • [📖 Documentation](https://rec0m88.com) • [🕹️ Supported Systems](#supported-systems)
+[🎮 Download Now](https://rec0m88.com/download-rec0m88) • [📖 Documentation](https://rec0m88.com) • [🕹️ Supported Systems](https://emulatorjs.org/docs4devs/cores)
 
 ---
 
@@ -97,7 +97,7 @@ Rec0m88 supports all systems available through EmulatorJS, including:
 
 <br>
 
-**[View Full System List on EmulatorJS →](https://emulatorjs.org/docs/systems)**
+**[View Full System List on EmulatorJS →](https://emulatorjs.org/docs4devs/cores)**
 
 </div>
 <br>
