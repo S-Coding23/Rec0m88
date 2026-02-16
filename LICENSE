@@ -1,21 +1,23 @@
-MIT License
+# Rec0m88 - Proprietary Software
 
-Copyright (c) 2025 S-Coding
+Copyright © 2025-2026 Rec0m88. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Terms
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This software is proprietary and closed-source. The following restrictions apply:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. **No Source Code Distribution** — The source code of Rec0m88 is not publicly available.
+
+2. **Official Downloads Only** — Rec0m88 may only be downloaded from the official website at [rec0m88.com](https://rec0m88.com).
+
+3. **No Redistribution** — You may not redistribute, resell, or host downloads of Rec0m88 without explicit written permission.
+
+4. **No Reverse Engineering** — You may not decompile, reverse engineer, or attempt to derive the source code of this software.
+
+## Third-Party Components
+
+Rec0m88 incorporates [EmulatorJS](https://emulatorjs.org) by Ethan O'Brien, which is licensed under the GPL-3.0 license. EmulatorJS source code is available at [github.com/EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS).
+
+## Contact
+
+For licensing inquiries, please visit [rec0m88.com](https://rec0m88.com).
