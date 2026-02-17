@@ -4,9 +4,9 @@
 
 # Rec0m88
 
-### Retro Gaming, Refined - The Desktop EmulatorJS Experience
+### Retro Gaming Reimagined - The Desktop EmulatorJS Experience
 
-[![Version](https://img.shields.io/badge/version-3.1.0-00f3ff?style=for-the-badge)](https://rec0m88.com)
+[![Version](https://img.shields.io/badge/version-3.2.0-00f3ff?style=for-the-badge)](https://rec0m88.com)
 [![Platform](https://img.shields.io/badge/platform-Windows%20|%20macOS%20|%20Linux-B805A1?style=for-the-badge)](#downloads)
 [![Powered By](https://img.shields.io/badge/powered%20by-EmulatorJS-FFD700?style=for-the-badge)](https://emulatorjs.org)
 
@@ -15,6 +15,8 @@
 [🎮 Download Now](https://rec0m88.com/download-rec0m88) • [📖 Documentation](https://rec0m88.com) • [🕹️ Supported Systems](https://emulatorjs.org/docs4devs/cores)
 
 ---
+
+> ⚠️ **Note:** This GitHub repository is **not the official Rec0m88 website** and may not always reflect the latest release. For the most current version, downloads, and documentation, please visit **[rec0m88.com](https://rec0m88.com)**.
 
 </div>
 
@@ -102,6 +104,41 @@ Rec0m88 supports all systems available through EmulatorJS, including:
 </div>
 <br>
 
+## 🌐 Integrated Netplay Lobby
+
+<div align="center">
+
+### 🆕 **Now featuring a fully integrated Netplay Lobby!**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://rec0m88.com/wp-content/uploads/2026/02/rec0m88-Recents.png" alt="Netplay Lobby Screenshot" width="100%">
+
+</td>
+<td width="50%">
+
+### Jump Into Multiplayer Instantly
+
+✅ **Live Session Browser** — Browse active multiplayer sessions right from the idle screen
+
+✅ **One-Click Join** — See who's playing, what game, and jump in instantly
+
+✅ **No Setup Needed** — The lobby is built right in — nothing extra to configure
+
+✅ **In-Game Messaging** — Chat with your opponent during play
+
+✅ **Secure WebRTC** — Fast, peer-to-peer connections
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📚 Game Library Manager — The Best Way to Play
 
 <div align="center">
@@ -175,6 +212,9 @@ Rec0m88 supports all systems available through EmulatorJS, including:
 
 ## 📋 Changelog
 
+### v3.2.0 (February 17, 2026)
+- **NEW:** Integrated Netplay Lobby — Browse and join active multiplayer sessions live, right from the idle screen
+
 ### v3.1.0 (February 13, 2026)
 - **NEW:** Recently Played Games Strip — Shows last 5 games with thumbnails
 - **NEW:** Now Playing Status Bar — Game title, platform badge, and live timer
@@ -221,7 +261,3 @@ Rec0m88 supports all systems available through EmulatorJS, including:
 - Initial public release
 
 </details>
-
----
-
-## 🚀 Quick Start
