@@ -28,11 +28,11 @@
 
 | Main Interface | Playing a Game |
 |:---:|:---:|
-| ![Main Emulator](https://rec0m88.com/wp-content/uploads/2026/02/rec0m88-MainEmulator.png) | ![Playing](https://rec0m88.com/wp-content/uploads/2026/02/rec0m88-Playing.png) |
+| ![Main Emulator](https://rec0m88.com/wp-content/uploads/2026/02/rec0m88-idle.png) | ![Playing](https://rec0m88.com/wp-content/uploads/2026/02/rec0m88-loaded.png) |
 
 | Game Library | Recently Played |
 |:---:|:---:|
-| ![Library](https://rec0m88.com/wp-content/uploads/2026/02/rec0m88-Library.png) | ![Recents](https://rec0m88.com/wp-content/uploads/2026/02/rec0m88-Recents.png) |
+| ![Library](https://rec0m88.com/wp-content/uploads/2026/02/rec0m88-Library.png) | ![Recents](https://rec0m88.com/wp-content/uploads/2026/02/rec0m88-idle-netplay.png) |
 
 | Multi-Select | Netplay Multiplayer |
 |:---:|:---:|
@@ -40,7 +40,7 @@
 
 | Cheats System | Settings |
 |:---:|:---:|
-| ![Cheats](https://rec0m88.com/wp-content/uploads/2026/02/rec0m88-cheats.png) | ![Settings](https://rec0m88.com/wp-content/uploads/2026/02/rec0m88-Settings.png) |
+| ![Cheats](https://rec0m88.com/wp-content/uploads/2026/02/rec0m88-cheats.png) | ![Settings](https://rec0m88.com/wp-content/uploads/2026/02/rec0m88-settings-1.png) |
 
 | Controller Config | API Configuration |
 |:---:|:---:|
@@ -211,6 +211,11 @@ Rec0m88 supports all systems available through EmulatorJS, including:
 ---
 
 ## 📋 Changelog
+
+### v3.3.0 (February 20, 2026)
+- **NEW:** Bug Fix: Fixed an issue that may have caused load states to freeze the emulator
+- Bug Fix: Fixed an issue that may have caused dynamic cheats menu to not populate
+- UI Enhancements and performance optimizations
 
 ### v3.2.0 (February 17, 2026)
 - **NEW:** Integrated Netplay Lobby — Browse and join active multiplayer sessions live, right from the idle screen
