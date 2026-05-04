@@ -6,13 +6,13 @@
 
 ### Retro Gaming Reimagined - The Desktop EmulatorJS Experience
 
-[![Version](https://img.shields.io/badge/version-3.2.0-00f3ff?style=for-the-badge)](https://rec0m88.com)
-[![Platform](https://img.shields.io/badge/platform-Windows%20|%20macOS%20|%20Linux-B805A1?style=for-the-badge)](#downloads)
+[![Version](https://img.shields.io/badge/version-4.1.1-00f3ff?style=for-the-badge)](https://rec0m88.com)
+[![Platform](https://img.shields.io/badge/platform-Windows%20|%20macOS%20|%20Linux%20|%20Xbox-B805A1?style=for-the-badge)](#downloads)
 [![Powered By](https://img.shields.io/badge/powered%20by-EmulatorJS-FFD700?style=for-the-badge)](https://emulatorjs.org)
 
-**Rediscover the classics with seamless online multiplayer, save states, and a beautiful game library manager.**
+**Rediscover the classics with seamless online multiplayer, RetroAchievements, save states, and a beautiful game library manager.**
 
-[🎮 Download Now](https://rec0m88.com/download-rec0m88) • [📖 Documentation](https://rec0m88.com) • [🕹️ Supported Systems](https://emulatorjs.org/docs4devs/cores)
+[🎮 Download Now](https://rec0m88.com/download-rec0m88) • [📖 Setup Guide](https://rec0m88.com/setup-rec0m88) • [🕹️ Supported Systems](https://emulatorjs.org/docs4devs/cores)
 
 ---
 
@@ -46,6 +46,14 @@
 |:---:|:---:|
 | ![Controls](https://rec0m88.com/wp-content/uploads/2026/02/rec0m88-controls.png) | ![APIs](https://rec0m88.com/wp-content/uploads/2026/02/rec0m88-APIs.png) |
 
+| RetroAchievements | Achievements Overlay |
+|:---:|:---:|
+| ![RetroAchievements](https://rec0m88.com/wp-content/uploads/2026/04/RetroAchievement.png) | ![Achievements UI](https://rec0m88.com/wp-content/uploads/2026/04/RetroAchievements3.png) |
+
+| Achievements Library Progress | |
+|:---:|:---:|
+| ![RetroAchievements Progress](https://rec0m88.com/wp-content/uploads/2026/04/RetroProgress.png) | |
+
 </div>
 
 ---
@@ -56,8 +64,14 @@
 <tr>
 <td width="33%" valign="top">
 
+### 🏆 RetroAchievements
+Prove your skills and track your mastery of classic games. Featuring Hardcore mode, live leaderboards, offline queueing, and a beautiful in-game overlay.
+
+</td>
+<td width="33%" valign="top">
+
 ### 🌐 Seamless Netplay
-Connect with friends and relive your favorite multiplayer games online with our simple and secure WebRTC netplay server. Includes in-game messaging!
+Connect with friends and relive your favorite multiplayer games online with our simple and secure WebRTC netplay server. True cross-platform play across Windows, macOS, Linux, and Xbox. Includes in-game messaging!
 
 </td>
 <td width="33%" valign="top">
@@ -66,43 +80,102 @@ Connect with friends and relive your favorite multiplayer games online with our 
 Never lose your progress again. Instantly save your exact spot in any game and load it back up anytime.
 
 </td>
-<td width="33%" valign="top">
-
-### 🖥️ Cross-Platform
-Built for everyone. Enjoy the same great experience whether you're on Windows, macOS, or Linux.
-
-</td>
 </tr>
 </table>
 
 ### 🎯 Additional Features
 
+- **RetroAchievements** — Hardcore mode, live leaderboards, offline sync & in-game overlay
 - **Cheat Codes** — Built-in cheats for NES, SNES, N64, Genesis, PlayStation & more
 - **BIOS Configuration** — Easy setup through the settings menu
 - **Auto Updates** — Stay current with automatic update checks
 - **Now Playing Status** — Live play timer and game info display
+- **Zero-Config Setup** — Point the app at your ROM folder and it builds your library automatically
+
+---
+
+## 🏆 RetroAchievements Integration
+
+<div align="center">
+
+### 🆕 **Now with fully integrated RetroAchievements support!**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://rec0m88.com/wp-content/uploads/2026/04/RetroAchievement.png" alt="RetroAchievements Screenshot" width="100%">
+
+</td>
+<td width="50%">
+
+### Track Your Mastery
+
+🔥 **Hardcore Mode** — Prove your skills with no save states or cheats
+
+🏆 **Live Leaderboards** — Compete against players worldwide in real time
+
+💻 **In-Game Overlay** — Beautiful overlay shows achievement progress during play
+
+📶 **Offline Sync** — Achievements queue locally and sync when you reconnect
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🕹️ Supported Systems
 
-Rec0m88 supports all systems available through EmulatorJS, including:
+Rec0m88 supports **18 classic consoles** natively, plus all additional systems available through EmulatorJS:
 
 <div align="center">
 
-| Popular Systems | | |
+| Nintendo | Sega | Atari & Others |
 |:---:|:---:|:---:|
-| Nintendo Entertainment System | Super Nintendo | Nintendo 64 |
-| Game Boy / Color / Advance | Nintendo DS | PlayStation |
-| Sega Genesis / Mega Drive | Sega Master System | Sega Game Gear |
-| Atari 2600 / 7800 / Lynx | PC Engine | And many more... |
+| NES | Sega Genesis / Mega Drive | Atari 2600 |
+| Super Nintendo | Sega Master System | Atari 7800 |
+| Nintendo 64 | Sega Game Gear | Atari Lynx |
+| Game Boy / Color / Advance | Sega 32X | PC Engine |
+| Nintendo DS | | WonderSwan |
+| Virtual Boy | | PlayStation |
 
 <br>
 
 **[View Full System List on EmulatorJS →](https://emulatorjs.org/docs4devs/cores)**
 
 </div>
-<br>
+
+---
+
+## 🖥️ Play On
+
+Rec0m88 runs on all major platforms — including **Xbox Series X|S** via Dev Mode:
+
+- 🪟 **Windows** 10 & 11 (x64)
+- 🍎 **macOS** (Intel & Apple Silicon)
+- 🐧 **Linux** (AppImage — AMD64 & ARM64)
+- 🎮 **Xbox Series X|S** (Dev Mode)
+
+---
+
+## 🌐 True Cross-Platform Netplay
+
+<div align="center">
+
+### Play with friends no matter what hardware they own
+
+</div>
+
+Host a game on your PC and have your friends join instantly from their Xbox, Mac, or Linux machine. One lobby, zero boundaries.
+
+- ✅ **Cross-Platform** — PC, Mac, Linux, and Xbox all play together
+- ✅ **Secure WebRTC** — Fast, peer-to-peer connections
+- ✅ **In-Game Messaging** — Chat with your opponent during play
+
+---
 
 ## 🌐 Integrated Netplay Lobby
 
@@ -158,11 +231,13 @@ Rec0m88 supports all systems available through EmulatorJS, including:
 
 ### Why Use the Game Library?
 
+✅ **Auto-Scan** — Background scanner finds all ROMs across subfolders automatically
+
+✅ **Auto Cover Art** — Automatically fetches artwork and metadata via RAWG & IGDB
+
 ✅ **Beautiful Visual Browser** — See all your games with cover art at a glance
 
 ✅ **One-Click Launch** — Click a game, start playing. It's that simple.
-
-✅ **Auto Cover Art** — Automatically fetches artwork via RAWG & IGDB
 
 ✅ **Smart Organization** — Sort by system, genre, or favorites
 
@@ -171,6 +246,8 @@ Rec0m88 supports all systems available through EmulatorJS, including:
 ✅ **Recently Played** — Jump right back into your last 5 games
 
 ✅ **Favorites System** — Pin your top games for quick access
+
+✅ **Key Import** — Import API keys from a file — no typing on controller
 
 </td>
 </tr>
@@ -197,20 +274,24 @@ Rec0m88 supports all systems available through EmulatorJS, including:
 | **Windows** | x64 |
 | **macOS** | Intel & Apple Silicon |
 | **Linux** | AMD64 & ARM64 |
+| **Xbox Series X\|S** | Dev Mode |
 
 <br>
 
 ### [⬇️ Download Rec0m88](https://rec0m88.com/download-rec0m88)
 
-<sup>Available for Windows, macOS, and Linux</sup>
+<sup>Available for Windows, macOS, Linux, and Xbox Series X|S</sup>
 
 </div>
 
-> 💡 **Pro Tip:** After downloading, [set up the Game Library](https://rec0m88.com/game-library-organizer/) to get the most out of Rec0m88!
+> 💡 **Pro Tip:** After downloading, check out the [Setup & Instructions Guide](https://rec0m88.com/setup-rec0m88) and [set up the Game Library](https://rec0m88.com/game-library-organizer/) to get the most out of Rec0m88!
 
 ---
 
 ## 📋 Changelog
+
+### v3.4.4 (Latest)
+- See [Full Changelog](https://rec0m88.com/rec0m88-changelog) for details
 
 ### v3.3.0 (February 20, 2026)
 - **NEW:** Bug Fix: Fixed an issue that may have caused load states to freeze the emulator
@@ -266,3 +347,11 @@ Rec0m88 supports all systems available through EmulatorJS, including:
 - Initial public release
 
 </details>
+
+---
+
+## 🙏 Attribution
+
+Rec0m88 is powered by **[EmulatorJS](https://emulatorjs.org)** — RetroArch on the web, by [Ethan O'Brien](https://github.com/EmulatorJS/EmulatorJS).
+
+Desktop/console adaptation, WebRTC Netplay & Dynamic Cheats by [@s-coding23](https://github.com/s-coding23) — an EmulatorJS contributor.
